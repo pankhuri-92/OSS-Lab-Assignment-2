@@ -83,5 +83,3 @@ O(n^2)
   Inserted edges represent a weighted graph.
 - **Output:**
   Prints the shortest path from vertex 1 to vertex 5 and the shortest distances from vertex 1 to all other vertices.
-
-By analyzing and documenting the code structure, we can better understand how each part of the program works and how they contribute to the implementation of Dijkstra's algorithm.
